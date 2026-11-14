@@ -1,5 +1,4 @@
 # AI-Assistant
-# AI Assistant
 
 A simple voice-controlled desktop assistant built with Python and Tkinter. Click a button, speak a command, and the assistant replies in text and speech.
 
